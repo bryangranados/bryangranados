@@ -6,7 +6,8 @@ export const USES = [
   },
   {
     name: 'Logitech MX Vertical',
-    description: 'I recommend this mouse to every developer looking to lessen/prevent wrist strain.',
+    description:
+      'I recommend this mouse to every developer looking to lessen/prevent wrist strain.',
     link: 'https://amzn.to/3ww4Qu3',
   },
   {
@@ -16,9 +17,9 @@ export const USES = [
   },
   {
     name: 'HUION Wireless Mini Keydial KD100',
-    description:
-      'Remedies the lack of a numberpad from using a small keyboard.',
-    link: 'https://www.amazon.com/HUION-One-Handed-Customizable-Animation-Illustration/dp/B092HTZZWM',
+    description: 'Remedies the lack of a numberpad from using a small keyboard.',
+    link:
+      'https://www.amazon.com/HUION-One-Handed-Customizable-Animation-Illustration/dp/B092HTZZWM',
   },
   {
     name: 'Audeze Penrose X',
@@ -28,13 +29,13 @@ export const USES = [
   {
     name: `27" LG NVIDIA G-Sync Monitor`,
     description: `I also use this on my gaming rig because I have an RTX graphics card.`,
-    link:
-      'https://www.amazon.com/LG-27GL850-B-Ultragear-Compatible-Monitor/dp/B07TD94TQF',
+    link: 'https://www.amazon.com/LG-27GL850-B-Ultragear-Compatible-Monitor/dp/B07TD94TQF',
   },
   {
     name: `27" Teros Curved Monitor`,
     description: 'This is my second monitor.',
-    link: 'https://articulo.mercadolibre.com.pe/MPE-439278095-monitor-gaming-teros-curvo-te-3170n-27-ips-led-144hz-1ms-hd-_JM',
+    link:
+      'https://articulo.mercadolibre.com.pe/MPE-439278095-monitor-gaming-teros-curvo-te-3170n-27-ips-led-144hz-1ms-hd-_JM',
   },
   {
     name: 'iPad Air 2',
@@ -43,14 +44,12 @@ export const USES = [
   },
   {
     name: 'XP-PEN Artist Pro 15.6',
-    description:
-      'Doubles as a third monitor, where I usually keep documentation windows open.',
+    description: 'Doubles as a third monitor, where I usually keep documentation windows open.',
     link: 'https://www.amazon.com/XP-PEN-Artist15-6-Pro-15-6-Full-Laminated/dp/B07M5X7MH1',
   },
   {
     name: 'Writing Tablet',
-    description:
-      'Sometimes I like to physically sketch wireframes.',
+    description: 'Sometimes I like to physically sketch wireframes.',
     link: 'https://www.amazon.com/JONZOO-Writing-Erasable-Drawing-Electronic/dp/B07XFDZ4QJ',
   },
   {

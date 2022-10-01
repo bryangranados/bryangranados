@@ -70,10 +70,12 @@ export default function AuthorLayout({ children, frontMatter }) {
               <br></br>
               <span>Check out my </span>
               <Link
-                href={'https://docs.google.com/document/d/1zKQG4hTqXKYXfBDcCneGZUY3hxKb-HXQ/edit?usp=sharing&ouid=100244887075527874549&rtpof=true&sd=true'}
+                href={
+                  'https://docs.google.com/document/d/1zKQG4hTqXKYXfBDcCneGZUY3hxKb-HXQ/edit?usp=sharing&ouid=100244887075527874549&rtpof=true&sd=true'
+                }
                 className="special-underline no-underline hover:dark:text-gray-800 dark:text-gray-100"
               >
-                  resume {' '}
+                resume{' '}
               </Link>
               <span>and </span>
               <Link
@@ -89,7 +91,7 @@ export default function AuthorLayout({ children, frontMatter }) {
               <RoughNotation type="highlight" show={true} color="#FBCFE8" animationDelay={1200}>
                 <span className="dark:text-gray-700">bryan@granados.cc </span>
               </RoughNotation>
-               or by scheduling a chat with me on Calendly.
+              or by scheduling a chat with me on Calendly.
             </p>
           </div>
         </div>

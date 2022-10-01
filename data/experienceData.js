@@ -6,8 +6,7 @@ const experienceData = [
     range: 'August 2022 - Present',
     url: 'https://www.minings.pe/',
     text1: 'Updated and maintain the company website. Available in both English and Spanish.',
-    text2:
-      'Company website was built with JavaScript and Bootstrap.',
+    text2: 'Company website was built with JavaScript and Bootstrap.',
     text3:
       'Since the company works with other mining companies, I sometimes provide web development services under contract to our clients. I also do minor graphics design and provide translation services.',
   },
@@ -21,8 +20,7 @@ const experienceData = [
       'Worked with the company’s main product, a CCM solution that allows physicians to immediately stand-up a CCM program that conforms to Medicare’s regulations.',
     text2:
       'Updated the company’s website to current industry standards. Used Node.js, MongoDB, and Tailwind.',
-    text3:
-      'Managed the company’s social media accounts and increased community engagement.',
+    text3: 'Managed the company’s social media accounts and increased community engagement.',
   },
   {
     title: 'Marketing and Administrative Specialist',

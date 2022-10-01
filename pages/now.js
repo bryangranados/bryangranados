@@ -18,8 +18,7 @@ export default function Now() {
         {/* Misc */}
         <div className="flex justify-between">
           <div className="text-sm p-1 mt-2 mb-10 border border-gray-600 dark:border-gray-200 rounded-md w-1/4">
-            <span className="font-semibold">Location:</span> <span>Malecón Cisneros,</span>{' '}
-            <br />
+            <span className="font-semibold">Location:</span> <span>Malecón Cisneros,</span> <br />
             <span>Lima</span>
             <br />
             <span className="font-semibold">Weather:</span> <span>65°F, cloudy</span>
@@ -27,7 +26,9 @@ export default function Now() {
 
           <div className="text-sm p-1 mt-2 mb-10 border border-gray-600 dark:border-gray-200 rounded-md w-2/5">
             <span className="font-semibold">Reading:</span>{' '}
-            <span>Best Debut Short Stories 2020: The PEN America Dau Prize - Tracy O'Neill, et. al.</span>
+            <span>
+              Best Debut Short Stories 2020: The PEN America Dau Prize - Tracy O'Neill, et. al.
+            </span>
             <br />
             <span className="font-semibold">Playing:</span> <span>Apex Legends</span>
           </div>
@@ -50,18 +51,26 @@ export default function Now() {
             </Link>
             <br />
           </span>
-          <p>We provide mining consultancy services to companies all over the world. This includes web development for other companies (which is where I come in).</p>
-          <br />
           <p>
-            The company specializes in setting up shafts and infrastructure for clients while providing advice on the best mining practices. We also do turnkey contracts and have worked in North America, South America, and Africa.
+            We provide mining consultancy services to companies all over the world. This includes
+            web development for other companies (which is where I come in).
           </p>
           <br />
           <p>
-            I mostly use Node, MongoDB, Tailwind, and Node, though I'm starting to get a concrete understanding of React for implementation on future projects.
+            The company specializes in setting up shafts and infrastructure for clients while
+            providing advice on the best mining practices. We also do turnkey contracts and have
+            worked in North America, South America, and Africa.
           </p>
           <br />
           <p>
-            I'm currently working on revamping my company's website from scratch. It's been a somewhat tedious experience because I have to go back and forth with the general manager, but it feels great to be 100% in charge of the project.
+            I mostly use Node, MongoDB, Tailwind, and Node, though I'm starting to get a concrete
+            understanding of React for implementation on future projects.
+          </p>
+          <br />
+          <p>
+            I'm currently working on revamping my company's website from scratch. It's been a
+            somewhat tedious experience because I have to go back and forth with the general
+            manager, but it feels great to be 100% in charge of the project.
           </p>
           <br />
           <p>
@@ -70,7 +79,7 @@ export default function Now() {
               href={'https://www.youtube.com/c/TraversyMedia'}
               className="special-underline hover:dark:text-gray-800 dark:text-gray-100 no-underline"
             >
-              Brad Traversy. 
+              Brad Traversy.
             </Link>
           </p>
         </div>
@@ -81,7 +90,8 @@ export default function Now() {
         {/* Personal life */}
         <div className="pt-6">
           <p>
-            I love to write but have never maintained any sort of blog. I know from experience that teaching and explaining helps us learn faster.{' '}
+            I love to write but have never maintained any sort of blog. I know from experience that
+            teaching and explaining helps us learn faster.{' '}
             <Link
               href={'https://www.swyx.io/learn-in-public'}
               className="special-underline hover:dark:text-gray-800 dark:text-gray-100 no-underline"
@@ -92,7 +102,7 @@ export default function Now() {
           </p>
           <br />
           <p>
-            I'm working on a short story collection written in second-person. 
+            I'm working on a short story collection written in second-person.
             <Link
               href={'/my-books'}
               className="special-underline hover:dark:text-gray-800 dark:text-gray-100 no-underline"
@@ -102,7 +112,8 @@ export default function Now() {
           </p>
           <br />
           <p>
-            I'm living in Lima right now and I discovered there's no professor review site for Peru, so I decided to work on one.
+            I'm living in Lima right now and I discovered there's no professor review site for Peru,
+            so I decided to work on one.
           </p>
           <br />
           {''}

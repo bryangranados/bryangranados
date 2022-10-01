@@ -80,7 +80,7 @@ const projectsData = [
     tech3: 'SCSS',
   },
   {
-    title: 'These Are The Droids You\'\rre Looking For',
+    title: "These Are The Droids You'\rre Looking For",
     description: `A basic web app that returns information about Star Wars characters pulled from an API.`,
     imgSrc: '',
     href: '',

@@ -18,11 +18,12 @@ export default function Uses() {
         <div className="text-gray-500 dark:text-gray-400 mt-5">
           You can see what I use while programming, both software and hardware, below.
           <br />
-          If you're interested in something I use and want more info, please reach out and I'll be happy to answer any questions.
+          If you're interested in something I use and want more info, please reach out and I'll be
+          happy to answer any questions.
         </div>
         <div className="text-gray-500 dark:text-gray-400 mt-5 mb-3 text-xs">
-          Full disclosure: This page contains affiliate links. If you click through and purchase, I may receive
-          compensation for that purchase.
+          Full disclosure: This page contains affiliate links. If you click through and purchase, I
+          may receive compensation for that purchase.
         </div>
         <span className="text-lg font-semibold mt-3">Software&nbsp;&&nbsp;Hardware</span>
         <div className="mt-3">
@@ -31,9 +32,7 @@ export default function Uses() {
           ))}
         </div>
         <div className="mt-3">
-          <span className="text-sm">
-            These stats began to be collected on October 2022.
-          </span>
+          <span className="text-sm">These stats began to be collected on October 2022.</span>
           <figure>
             <embed
               className="w-3/5 h-3/5"
@@ -42,7 +41,8 @@ export default function Uses() {
           </figure>
           <div className="pt-10">
             <span className="text-sm">
-              This site started out as a template, so maybe bookmark it to see what else I can do with it in the future.
+              This site started out as a template, so maybe bookmark it to see what else I can do
+              with it in the future.
             </span>
           </div>
         </div>
