@@ -63,8 +63,8 @@ export default function Now() {
           </p>
           <br />
           <p>
-            I mostly use JavaScript, MongoDB, Tailwind, and Node, though I'm starting to get a concrete
-            understanding of React for implementation on future projects.
+            I mostly use JavaScript, MongoDB, Tailwind, and Node, though I'm starting to get a
+            concrete understanding of React for implementation on future projects.
           </p>
           <br />
           <p>
@@ -74,7 +74,8 @@ export default function Now() {
           </p>
           <br />
           <p>
-            I started my programming journey back in high school with Java, though I didn't touch code again for over a decade. Huge shoutout to{' '}
+            I started my programming journey back in high school with Java, though I didn't touch
+            code again for over a decade. Huge shoutout to{' '}
             <Link
               href={'https://www.youtube.com/c/TraversyMedia'}
               className="special-underline hover:dark:text-gray-800 dark:text-gray-100 no-underline"
