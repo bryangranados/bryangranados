@@ -35,7 +35,7 @@ class MyDocument extends Document {
           />
           <link rel="icon" href="/favicon.svg" sizes="any" type="image/svg+xml" />
         </Head>
-        <body className="antialiased text-black bg-white dark:bg-background-color dark:text-white">
+        <body className="antialiased text-black bg-white dark:bg-slate-900 dark:text-white">
           <Main />
           <NextScript />
         </body>

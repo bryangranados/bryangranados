@@ -1,12 +1,12 @@
 ---
 title: Sample .md file
-date: '2016-03-08'
+date: '2020-03-08'
 tags: ['markdown', 'code', 'features']
 draft: false
 summary: Example of a markdown file with code blocks and syntax highlighting
 ---
 
-A sample post with markdown.
+This is a sample post made with markdown (in case anyone is interested in cloning the website's repo).
 
 ## Inline Highlighting
 
@@ -14,10 +14,10 @@ Sample of inline highlighting `sum = parseInt(num1) + parseInt(num2)`
 
 ## Code Blocks
 
-Some Javascript code
+Some JS code:
 
 ```javascript
-var num1, num2, sum
+let num1, num2, sum
 num1 = prompt('Enter first number')
 num2 = prompt('Enter second number')
 sum = parseInt(num1) + parseInt(num2) // "+" means "add"

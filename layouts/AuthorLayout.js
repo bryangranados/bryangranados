@@ -91,7 +91,13 @@ export default function AuthorLayout({ children, frontMatter }) {
               <RoughNotation type="highlight" show={true} color="#FBCFE8" animationDelay={1200}>
                 <span className="dark:text-gray-700">bryan@granados.cc </span>
               </RoughNotation>
-              or by scheduling a chat with me on Calendly.
+              <span>or by scheduling a chat with me on </span>
+              <Link
+                href={'https://calendly.com/bryangranados/chat'}
+                className="special-underline no-underline hover:dark:text-gray-800 dark:text-gray-100"
+              >
+                Calendly.{' '}
+              </Link>
             </p>
           </div>
         </div>
