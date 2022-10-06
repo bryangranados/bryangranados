@@ -103,7 +103,7 @@ export default function Now() {
           </p>
           <br />
           <p>
-            I'm working on a short story collection written in second-person.
+            <span>I'm working on a short story collection written in second-person. </span>
             <Link
               href={'/my-books'}
               className="special-underline hover:dark:text-gray-800 dark:text-gray-100 no-underline"
