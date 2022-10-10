@@ -17,23 +17,23 @@ export default function MyBooks() {
         <p>This is currently a work in progress (I'm also making a web app for the book).</p>
         <br />
         <p>
-          The stories are written as literary fiction and rather dark in their themes and content.
+          The stories are written as literary fiction and exist in the same universe (by that I mean that they're loosely interconnected).
         </p>
         <Image alt="second brain" src="/static/images/enCover.png" width={500} height={400} />
-        <p>This book is available in both English and Spanish. You can get them for free.</p>
+        <p>This book will be available in both English and Spanish. You can get them for free.</p>
         <br />
         <br />
         <p>
           Here you can find the{' '}
           <Link
-            href={'https://einargudni.gumroad.com/l/ufidy'}
+            href={'https://diathekez.gumroad.com/'}
             className="special-underline hover:dark:text-gray-800 dark:text-gray-100 no-underline"
           >
             English version,
           </Link>{' '}
           and here is the{' '}
           <Link
-            href={'https://einargudni.gumroad.com/l/sfmlw'}
+            href={'https://diathekez.gumroad.com/'}
             className="special-underline hover:dark:text-gray-800 dark:text-gray-100 no-underline"
           >
             Spanish version.{' '}
