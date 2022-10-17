@@ -17,7 +17,8 @@ export default function MyBooks() {
         <p>This is currently a work in progress (I'm also making a web app for the book).</p>
         <br />
         <p>
-          The stories are written as literary fiction and exist in the same universe (by that I mean that they're loosely interconnected).
+          The stories are written as literary fiction and exist in the same universe (by that I mean
+          that they're loosely interconnected).
         </p>
         <Image alt="second brain" src="/static/images/enCover.png" width={500} height={400} />
         <p>This book will be available in both English and Spanish. You can get them for free.</p>

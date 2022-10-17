@@ -26,15 +26,13 @@ export default function Now() {
 
           <div className="text-sm p-1 mt-2 mb-10 border border-gray-600 dark:border-gray-200 rounded-md w-2/5">
             <span className="font-semibold">Reading:</span>{' '}
-            <span>
-              Best Debut Short Stories 2020: The PEN America Dau Prize - Tracy O'Neill, et. al.
-            </span>
+            <span>The Best American Short Stories 2020 - Ed. Curtis Sittenfeld</span>
             <br />
-            <span className="font-semibold">Playing:</span> <span>Apex Legends</span>
+            <span className="font-semibold">Playing:</span> <span>Fallout 4</span>
           </div>
 
           <div className="text-sm p-1 mt-2 mb-10 border border-gray-600 dark:border-gray-200 rounded-md w-1/4">
-            <span className="font-semibold">Eating:</span> <span>Lomo saltado</span>
+            <span className="font-semibold">Eating:</span> <span>Caldo de gallina</span>
             <br />
             <span className="font-semibold">Drinking:</span> <span>Coffee (always)</span>
           </div>

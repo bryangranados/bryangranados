@@ -27,13 +27,18 @@ export const USES = [
     link: 'https://www.amazon.com/Audeze-Penrose-Wireless-Low-Latency-Bluetooth/dp/B08D9M6FZK',
   },
   {
-    name: `27" LG NVIDIA G-Sync Monitor`,
+    name: `32" ASUS TUF Curved Gaming Monitor`,
     description: `I also use this on my gaming rig because I have an RTX graphics card.`,
     link: 'https://www.amazon.com/LG-27GL850-B-Ultragear-Compatible-Monitor/dp/B07TD94TQF',
   },
   {
+    name: `27" LG NVIDIA G-Sync Monitor`,
+    description: `I use this monitor to keep documentation windows open.`,
+    link: 'https://www.amazon.com/LG-27GL850-B-Ultragear-Compatible-Monitor/dp/B07TD94TQF',
+  },
+  {
     name: `27" Teros Curved Monitor`,
-    description: 'This is my second monitor.',
+    description: 'This monitor sits above my main one.',
     link:
       'https://articulo.mercadolibre.com.pe/MPE-439278095-monitor-gaming-teros-curvo-te-3170n-27-ips-led-144hz-1ms-hd-_JM',
   },
@@ -44,7 +49,7 @@ export const USES = [
   },
   {
     name: 'XP-PEN Artist Pro 15.6',
-    description: 'Doubles as a third monitor, where I usually keep documentation windows open.',
+    description: 'For when I need more precision than my mouse to do graphics design.',
     link: 'https://www.amazon.com/XP-PEN-Artist15-6-Pro-15-6-Full-Laminated/dp/B07M5X7MH1',
   },
   {
