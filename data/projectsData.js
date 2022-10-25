@@ -85,9 +85,9 @@ const projectsData = [
     imgSrc: '',
     href: 'https://100devsdirectory.vercel.app/',
     github: 'https://github.com/diathekez/dev-directory',
-    tech1: 'Gatsby',
-    tech2: 'graphQL',
-    tech3: 'CSS',
+    tech1: 'TypeScript',
+    tech2: 'Next.js',
+    tech3: 'MongoDB',
   },
   {
     title: 'Jot',
