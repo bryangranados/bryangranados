@@ -18,7 +18,7 @@ export default function Now() {
         {/* Misc */}
         <div className="flex justify-between">
           <div className="text-sm p-1 mt-2 mb-10 border border-gray-600 dark:border-gray-200 rounded-md w-1/4">
-            <span className="font-semibold">Location:</span> <span>Malecón Cisneros,</span> <br />
+            <span className="font-semibold">Location:</span> <span>La Molina,</span> <br />
             <span>Lima</span>
             <br />
             <span className="font-semibold">Weather:</span> <span>65°F, cloudy</span>
@@ -32,7 +32,7 @@ export default function Now() {
           </div>
 
           <div className="text-sm p-1 mt-2 mb-10 border border-gray-600 dark:border-gray-200 rounded-md w-1/4">
-            <span className="font-semibold">Eating:</span> <span>Caldo de gallina</span>
+            <span className="font-semibold">Eating:</span> <span>Carbonara</span>
             <br />
             <span className="font-semibold">Drinking:</span> <span>Coffee (always)</span>
           </div>

@@ -13,7 +13,7 @@ export default function Projects() {
             Projects
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Some of the projects I've built myself and/or with others.
+            Some projects I've built. Feel free to fork and improve them.
           </p>
         </div>
         <div className="container py-12">
