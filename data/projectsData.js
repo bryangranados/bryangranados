@@ -56,8 +56,8 @@ const projectsData = [
     href: '#',
     github: '#',
     tech1: 'Node.js',
-    tech2: 'PostgresQL',
-    tech3: 'JWT',
+    tech2: 'JavaScript',
+    tech3: 'MongoDB',
   },
   {
     title: 'Habla Good',
@@ -80,7 +80,7 @@ const projectsData = [
     tech3: 'Bulma',
   },
   {
-    title: "100Devs Directory",
+    title: '100Devs Directory',
     description: `A searchable directory of software engineers who are part of the 100Devs agency.`,
     imgSrc: '',
     href: 'https://100devsdirectory.vercel.app/',
@@ -91,7 +91,7 @@ const projectsData = [
   },
   {
     title: 'Jot',
-    description: `A basic text editor that I use every day.`,
+    description: `A basic text editor built with Electron.`,
     imgSrc: '',
     href: '#',
     github: 'https://github.com/diathekez/text-editor-electron',
