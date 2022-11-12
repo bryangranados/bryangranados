@@ -13,7 +13,7 @@ export default function Now() {
       <div>
         <div className="my-2">
           <h3>Where am I and what am I doing?</h3>
-          <div className="mt-3 mb-4 text-sm">Last updated: October 1, 2022</div>
+          <div className="mt-3 mb-4 text-sm">Last updated: November 11, 2022</div>
         </div>
         {/* Misc */}
         <div className="flex justify-between">
@@ -21,18 +21,18 @@ export default function Now() {
             <span className="font-semibold">Location:</span> <span>La Molina,</span> <br />
             <span>Lima</span>
             <br />
-            <span className="font-semibold">Weather:</span> <span>65°F, cloudy</span>
+            <span className="font-semibold">Weather:</span> <span>70°F, cloudy</span>
           </div>
 
           <div className="text-sm p-1 mt-2 mb-10 border border-gray-600 dark:border-gray-200 rounded-md w-2/5">
             <span className="font-semibold">Reading:</span>{' '}
             <span>The Best American Short Stories 2020 - Ed. Curtis Sittenfeld</span>
             <br />
-            <span className="font-semibold">Playing:</span> <span>Fallout 4</span>
+            <span className="font-semibold">Playing:</span> <span>Modern Warfare II</span>
           </div>
 
           <div className="text-sm p-1 mt-2 mb-10 border border-gray-600 dark:border-gray-200 rounded-md w-1/4">
-            <span className="font-semibold">Eating:</span> <span>Carbonara</span>
+            <span className="font-semibold">Eating:</span> <span>Caldo de gallina</span>
             <br />
             <span className="font-semibold">Drinking:</span> <span>Coffee (always)</span>
           </div>
