@@ -61,8 +61,8 @@ export default function Now() {
           </p>
           <br />
           <p>
-            I mostly use JavaScript, MongoDB, Tailwind, and Node, though I'm starting to get a
-            concrete understanding of React for implementation on future projects.
+            I mostly use React, MongoDB, Tailwind, and Node, though I'm starting to get a concrete
+            understanding of TypeScript for implementation on future projects.
           </p>
           <br />
           <p>
