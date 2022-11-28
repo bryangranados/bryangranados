@@ -20,7 +20,7 @@ export default function MyBooks() {
           The stories are written as literary fiction and exist in the same universe (by that I mean
           that they're loosely interconnected).
         </p>
-        <Image alt="second brain" src="/static/images/enCover.png" width={500} height={400} />
+        <Image alt="second brain" src="/static/images/sample-book.png" width={500} height={400} />
         <p>This book will be available in both English and Spanish. You can get them for free.</p>
         <br />
         <br />
