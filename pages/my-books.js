@@ -25,14 +25,14 @@ export default function MyBooks() {
         <br />
         <br />
         <p>
-          Here you can find the{' '}
+          Here you will find the{' '}
           <Link
             href={'https://diathekez.gumroad.com/'}
             className="special-underline hover:dark:text-gray-800 dark:text-gray-100 no-underline"
           >
             English version,
           </Link>{' '}
-          and here is the{' '}
+          and here will be the{' '}
           <Link
             href={'https://diathekez.gumroad.com/'}
             className="special-underline hover:dark:text-gray-800 dark:text-gray-100 no-underline"
