@@ -15,6 +15,10 @@ export default function Projects() {
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
             Some projects I've built. Feel free to fork and improve them.
           </p>
+          <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
+            NOTE: Because Heroku went premium-only, I'm currently in the process of migrating all my
+            projects to Railway and Cyclic.
+          </p>
         </div>
         <div className="container py-12">
           <div className="flex flex-wrap -m-4">
