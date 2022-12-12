@@ -1,4 +1,4 @@
-# Bryan Granados
+# My Personal Website
 
 This is a [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/) site built on a template from [Timothy Lin](https://github.com/timlrx/tailwind-nextjs-starter-blog), and deployed on [Vercel](https://vercel.com/).
 
