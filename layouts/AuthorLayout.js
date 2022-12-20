@@ -84,6 +84,15 @@ export default function AuthorLayout({ children, frontMatter }) {
               >
                 portfolio.{' '}
               </Link>
+              <br />
+              <br></br>
+              <span>I stream software development on </span>
+              <Link
+                href={'https://www.twitch.tv/diathekez'}
+                className="special-underline no-underline hover:dark:text-gray-800 dark:text-gray-100"
+              >
+                Twitch.{' '}
+              </Link>
             </p>
             <br />
             <p>
