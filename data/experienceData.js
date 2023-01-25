@@ -1,14 +1,26 @@
 const experienceData = [
   {
+    title: 'Full-stack React Engineer',
+    company: 'Valere Labs',
+    location: 'Remote',
+    range: 'January 2023 - Present',
+    url: 'https://www.valere.io/',
+    text1: 'Integrating third-party services to the principal product.',
+    text2: 'Utilizing Postman to verify that the API endpoints are functional.',
+    text3:
+      'Creating modules with flexible parameters that will be later implemented on the front-end.',
+  },
+  {
     title: 'Web Developer',
     company: 'Mining Service Ingenieros',
     location: 'Remote',
-    range: 'August 2022 - Present',
+    range: 'August 2022 - January 2023',
     url: 'https://www.minings.pe/',
-    text1: 'Updated and maintain the company website. Available in both English and Spanish.',
-    text2: 'Company website was built with JavaScript and Bootstrap.',
+    text1: 'Web development, often subcontracted out to other companies.',
+    text2:
+      'Created a custom solution that engages in the systematic collection, storage, and analysis of data, subsequently utilizing the insights gleaned for the enhancement of business operations, as a result, reducing overhead costs and increasing annual revenue.',
     text3:
-      'Since the company works with other mining companies, I sometimes provide web development services under contract to our clients. I also do minor graphics design and provide translation services.',
+      'Proofreading, editing, and composition of company content (brochures, pamphlets, presentations).',
   },
   {
     title: 'Software Development Intern',
@@ -19,8 +31,8 @@ const experienceData = [
     text1:
       'Worked with the company’s main product, a CCM solution that allows physicians to immediately stand-up a CCM program that conforms to Medicare’s regulations.',
     text2:
-      'Updated the company’s website to current industry standards. Used Node.js, MongoDB, and Tailwind.',
-    text3: 'Managed the company’s social media accounts and increased community engagement.',
+      'Updated the company’s website to current industry standards. Used React, Tailwind, and GSAP.',
+    text3: 'Principal duty was testing the company’s products to find bugs or inconsistencies.',
   },
   {
     title: 'Marketing and Administrative Specialist',

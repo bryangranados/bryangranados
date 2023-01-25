@@ -13,7 +13,7 @@ export default function Now() {
       <div>
         <div className="my-2">
           <h3>Where am I and what am I doing?</h3>
-          <div className="mt-3 mb-4 text-sm">Last updated: December 4, 2022</div>
+          <div className="mt-3 mb-4 text-sm">Last updated: January 25, 2023</div>
         </div>
         {/* Misc */}
         <div className="flex justify-between">
@@ -21,18 +21,18 @@ export default function Now() {
             <span className="font-semibold">Location:</span> <span>La Molina,</span> <br />
             <span>Lima</span>
             <br />
-            <span className="font-semibold">Weather:</span> <span>68°F, cloudy</span>
+            <span className="font-semibold">Weather:</span> <span>76°F, cloudy</span>
           </div>
 
           <div className="text-sm p-1 mt-2 mb-10 border border-gray-600 dark:border-gray-200 rounded-md w-2/5">
             <span className="font-semibold">Reading:</span>{' '}
             <span>The Best American Short Stories &#8212; Ed. by Curtis Sittenfeld</span>
             <br />
-            <span className="font-semibold">Playing:</span> <span>Modern Warfare II</span>
+            <span className="font-semibold">Playing:</span> <span>The Evil Within 2</span>
           </div>
 
           <div className="text-sm p-1 mt-2 mb-10 border border-gray-600 dark:border-gray-200 rounded-md w-1/4">
-            <span className="font-semibold">Eating:</span> <span>Caldo de gallina</span>
+            <span className="font-semibold">Eating:</span> <span>Lasagna de ají de gallina</span>
             <br />
             <span className="font-semibold">Drinking:</span> <span>Coffee (always)</span>
           </div>
@@ -40,35 +40,36 @@ export default function Now() {
         {/* Work */}
         <div className="pb-4">
           <span>
-            I work as a web developer at{' '}
+            I work as a React engineer at{' '}
             <Link
-              href={'https://www.minings.pe/'}
+              href={'https://www.valere.io/'}
               className="special-underline hover:dark:text-gray-800 dark:text-gray-100 no-underline"
             >
-              Mining Service Ingenieros{' '}
+              Valere Labs{' '}
             </Link>
             <br />
           </span>
           <p>
-            We provide mining consultancy services to companies all over the world. This includes
-            web development for other companies (which is where I come in).
+            We provide software development services to clients all over the world. Each project
+            normally lasts about six months from conception to completion.
           </p>
           <br />
           <p>
-            The company specializes in setting up shafts and infrastructure for clients while
-            providing advice on the best mining practices. We also do turnkey contracts and have
-            worked in North America, South America, and Africa.
+            The company is based in the US but has offices in other countries. We have a
+            multicultural and international workforce, and it's also pretty laid back. By that I
+            mean that no one is micromanaging you.
           </p>
           <br />
           <p>
-            I mostly use React, MongoDB, Tailwind, and Node, though I'm starting to get a concrete
-            understanding of TypeScript for implementation on future projects.
+            I mostly use React, Node, MongoDB, and Postman (to check the endpoints), though I'm
+            independently learning TypeScript better and like it a lot.
           </p>
           <br />
           <p>
-            I'm currently working on revamping my company's website from scratch. It's been a
-            somewhat tedious experience because I have to go back and forth with the general
-            manager, but it feels great to be 100% in charge of the project.
+            My current main duties are exclusively to work on the back-end, integrating third-party
+            services to the principal product. It's challenging because I'm used to mostly working
+            on the front-end, but I like it because I feel like this experience will make me a much
+            more well-rounded developer.
           </p>
           <br />
           <p>
@@ -111,15 +112,16 @@ export default function Now() {
           </p>
           <br />
           <p>
-            I'm living in Lima right now and I discovered there's no professor review site for Peru,
-            so I decided to work on one.
+            I'm living in Lima right now and I like to go to Kennedy Park in Miraflores every
+            Sunday. There's so many cats everywhere that I got the idea to make a cat tracker web
+            app.
           </p>
           <br />
           {''}
           <p>
-            You can see the live page{' '}
+            It will be available{' '}
             <Link
-              href={'https://calificatuprofe.herokuapp.com/'}
+              href={'#'}
               className="special-underline hover:dark:text-gray-800 dark:text-gray-100 no-underline"
             >
               here.
