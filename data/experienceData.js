@@ -1,6 +1,6 @@
 const experienceData = [
   {
-    title: 'Full-stack React Engineer',
+    title: 'React Engineer',
     company: 'Valere Labs',
     location: 'Remote',
     range: 'January 2023 - Present',
@@ -23,9 +23,20 @@ const experienceData = [
       'Proofreading, editing, and composition of company content (brochures, pamphlets, presentations).',
   },
   {
+    title: 'Full-stack Developer',
+    company: '100Devs',
+    location: 'Los Angeles, California',
+    range: 'January 2022 - November 2022',
+    url: 'https://leonnoel.com/100devs/',
+    text1:
+      'Collaborated with a team of developers to build modern and responsive web applications using efficient practices.',
+    text2: 'Built semantically structured full-stack web applications.',
+    text3: 'Applied agile methodologies like SCRUM for project management.',
+  },
+  {
     title: 'Software Development Intern',
     company: 'Dulcian Health',
-    location: 'Woodbridge, New Jersey, USA',
+    location: 'Woodbridge, New Jersey',
     range: 'August 2022 - October 2022',
     url: 'https://www.linkedin.com/company/dulcian-health/',
     text1:
@@ -37,7 +48,7 @@ const experienceData = [
   {
     title: 'Marketing and Administrative Specialist',
     company: 'Refreshing Development Center',
-    location: 'Clewiston, Florida, USA',
+    location: 'Clewiston, Florida',
     range: 'July 2017 - January 2020',
     url: 'https://www.refreshingdc.org/',
     text1:
