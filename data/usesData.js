@@ -23,7 +23,7 @@ export const USES = [
     link: 'https://www.amazon.com/dp/B092CDD7HH',
   },
   {
-    name: 'Shurikey 75% Mechanical Wireless Keyboard',
+    name: 'Shurikey 75% Wireless Mechanical Keyboard, EC V2 Rose Switch',
     description: 'The volume control wheel was the selling point for me. Rose switches.',
     link: 'https://www.amazon.com/Shurikey-Keyboard-Wireless-Compact-Mechanical/dp/B09V6K92J4',
   },
@@ -34,14 +34,20 @@ export const USES = [
       'https://www.amazon.com/HUION-One-Handed-Customizable-Animation-Illustration/dp/B092HTZZWM',
   },
   {
+    name: 'HITIME XVX M61 60% Wireless Mechanical Keyboard, Gateron Yellow Switch',
+    description: 'I use this with my MacBook.',
+    link:
+      'https://www.amazon.com/HITIME-Mechanical-Ultra-Compact-Rechargeable-Ergonomic/dp/B09MQPT2NQ',
+  },
+  {
     name: 'Audeze Penrose X',
-    description: 'Doubles as a gaming headset. There are EQ presets specifically for footsteps.',
+    description: 'Gaming headset. There are EQ presets specifically for footsteps.',
     link: 'https://www.amazon.com/Audeze-Penrose-Wireless-Low-Latency-Bluetooth/dp/B08D9M6FZK',
   },
   {
     name: 'SteelSeries Arctis Nova 7',
-    description: 'Backup headphones.',
-    link: 'https://www.amazon.com/Audeze-Penrose-Wireless-Low-Latency-Bluetooth/dp/B08D9M6FZK',
+    description: 'For music and calls.',
+    link: 'https://www.amazon.com/SteelSeries-Arctis-Wireless-Multi-Platform-Headset/dp/B0B15QM5LL',
   },
   {
     name: 'Logitech BRIO',
@@ -102,7 +108,7 @@ export const USES = [
   },
   {
     name: 'Brave',
-    description: 'All the benefits of Chrome, none of the drawbacks.',
+    description: 'All the benefits of Chrome with less of the drawbacks.',
     link: 'https://brave.com/',
   },
   {
