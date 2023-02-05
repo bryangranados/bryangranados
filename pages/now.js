@@ -13,7 +13,7 @@ export default function Now() {
       <div>
         <div className="my-2">
           <h3>Where am I and what am I doing?</h3>
-          <div className="mt-3 mb-4 text-sm">Last updated: January 25, 2023</div>
+          <div className="mt-3 mb-4 text-sm">Last updated: February 5, 2023</div>
         </div>
         {/* Misc */}
         <div className="flex justify-between">
@@ -21,18 +21,18 @@ export default function Now() {
             <span className="font-semibold">Location:</span> <span>La Molina,</span> <br />
             <span>Lima</span>
             <br />
-            <span className="font-semibold">Weather:</span> <span>76°F, cloudy</span>
+            <span className="font-semibold">Weather:</span> <span>78°F, sunny</span>
           </div>
 
           <div className="text-sm p-1 mt-2 mb-10 border border-gray-600 dark:border-gray-200 rounded-md w-2/5">
             <span className="font-semibold">Reading:</span>{' '}
             <span>The Best American Short Stories &#8212; Ed. by Curtis Sittenfeld</span>
             <br />
-            <span className="font-semibold">Playing:</span> <span>The Evil Within 2</span>
+            <span className="font-semibold">Playing:</span> <span>Apex Legends</span>
           </div>
 
           <div className="text-sm p-1 mt-2 mb-10 border border-gray-600 dark:border-gray-200 rounded-md w-1/4">
-            <span className="font-semibold">Eating:</span> <span>Lasagna de ají de gallina</span>
+            <span className="font-semibold">Eating:</span> <span>Tallarin saltado</span>
             <br />
             <span className="font-semibold">Drinking:</span> <span>Coffee (always)</span>
           </div>
@@ -67,9 +67,8 @@ export default function Now() {
           <br />
           <p>
             My current main duties are exclusively to work on the back-end, integrating third-party
-            services to the principal product. It's challenging because I'm used to mostly working
-            on the front-end, but I like it because I feel like this experience will make me a much
-            more well-rounded developer.
+            services to the principal product. But I'm also working on completely redesigning the
+            company's website using Gastby, React, Tailwind, and Netlify CMS.
           </p>
           <br />
           <p>
