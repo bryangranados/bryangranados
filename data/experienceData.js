@@ -9,6 +9,8 @@ const experienceData = [
     text2: 'Utilizing Postman to verify that the API endpoints are functional.',
     text3:
       'Creating modules with flexible parameters that will be later implemented on the front-end.',
+    text4:
+      'Currently redesigning the company website using Gatsby, React, Tailwind, and Netlify CMS.',
   },
   {
     title: 'Web Developer',
