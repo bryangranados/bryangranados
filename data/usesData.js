@@ -23,8 +23,8 @@ export const USES = [
     link: 'https://www.amazon.com/dp/B092CDD7HH',
   },
   {
-    name: 'Shurikey 75% Wireless Mechanical Keyboard, EC V2 Rose Switch',
-    description: 'The volume control wheel was the selling point for me. Rose switches.',
+    name: 'Shurikey 75% Wireless Mechanical Keyboard',
+    description: 'The volume control wheel was the selling point for me. EC V2 Rose switches.',
     link: 'https://www.amazon.com/Shurikey-Keyboard-Wireless-Compact-Mechanical/dp/B09V6K92J4',
   },
   {
@@ -34,8 +34,8 @@ export const USES = [
       'https://www.amazon.com/HUION-One-Handed-Customizable-Animation-Illustration/dp/B092HTZZWM',
   },
   {
-    name: 'HITIME XVX M61 60% Wireless Mechanical Keyboard, Gateron Yellow Switch',
-    description: 'I use this with my MacBook.',
+    name: 'HITIME XVX M61 60% Wireless Mechanical Keyboard',
+    description: 'I use this with my MacBook. Gateron Yellow switches.',
     link:
       'https://www.amazon.com/HITIME-Mechanical-Ultra-Compact-Rechargeable-Ergonomic/dp/B09MQPT2NQ',
   },
