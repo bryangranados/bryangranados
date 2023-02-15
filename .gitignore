@@ -37,6 +37,7 @@ yarn-error.log*
 .env.production.local
 
 # blog posts
+love-in-the-time-of-covid.mdx
 collection3.mdx
 collection04.mdx
 collection05.mdx
