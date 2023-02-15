@@ -37,8 +37,6 @@ yarn-error.log*
 .env.production.local
 
 # blog posts
-collection01.mdx
-collection02.mdx
 collection3.mdx
 collection04.mdx
 collection05.mdx
