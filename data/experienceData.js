@@ -35,7 +35,7 @@ const experienceData = [
     text3: 'Applied agile methodologies like SCRUM for project management.',
   },
   {
-    title: 'Software Development Intern',
+    title: 'Software Developer',
     company: 'Dulcian Health',
     location: 'Woodbridge, New Jersey',
     range: 'April 2022 - October 2022',
@@ -43,6 +43,8 @@ const experienceData = [
     text1:
       'Worked in QA with the company’s main product, a CCM solution that allows physicians to immediately stand-up a CCM program that conforms to Medicare’s regulations.',
     text2:
+      'Products were JavaScript and SQL heavy with minimal CSS as to deliver the most minified apps possible.',
+    text3:
       'Main duty was stress testing the company’s products before launch, but additional duties later included translation of the UI from English to Spanish.',
   },
   {
@@ -54,6 +56,8 @@ const experienceData = [
     text1:
       'Worked closely with the lead graphics designer to develop and implement visually stunning layouts, directories, and design updates using HTML, CSS, and JS libraries.',
     text2:
+      'Employed brilliant SEO to increase web traffic for the NPO’s website by over 300% in a single month (per Google Analytics).',
+    text3:
       'Future-proofed the organization’s web development by creating general template layouts and components, thereby achieving cost-savings in the thousands of dollars.',
   },
 ]
