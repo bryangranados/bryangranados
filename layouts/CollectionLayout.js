@@ -47,7 +47,7 @@ export default function CollectionLayout({ frontMatter, authorDetails, next, pre
                 <PageTitle>{title}</PageTitle>
               </div>
               <div className="mt-12">
-                <div>This is a collection of interesting thing I discover on the internet.</div>
+                <div>A collection of things that are of particular interest to me.</div>
                 <div className="mt-8 text-sm font-medium leading-5 ">
                   {tags && (
                     <div>
@@ -84,9 +84,9 @@ export default function CollectionLayout({ frontMatter, authorDetails, next, pre
                             <Link
                               href={collection1Link}
                               className="text-primary-color dark:text-primary-color-dark hover:text-blue-600 dark:hover:text-yellow-300"
-                              aria-label={`Read "${collection1}"`}
+                              aria-label={`See "${collection1}"`}
                             >
-                              Read more &rarr;
+                              See more &rarr;
                             </Link>
                           </div>
                         </div>
@@ -105,9 +105,9 @@ export default function CollectionLayout({ frontMatter, authorDetails, next, pre
                             <Link
                               href={collection2Link}
                               className="text-primary-color dark:text-primary-color-dark hover:text-blue-600 dark:hover:text-yellow-300"
-                              aria-label={`Read "${collection2}"`}
+                              aria-label={`See "${collection2}"`}
                             >
-                              Read more &rarr;
+                              See more &rarr;
                             </Link>
                           </div>
                         </div>
@@ -126,9 +126,9 @@ export default function CollectionLayout({ frontMatter, authorDetails, next, pre
                             <Link
                               href={collection3Link}
                               className="text-primary-color dark:text-primary-color-dark hover:text-blue-600 dark:hover:text-yellow-300"
-                              aria-label={`Read "${collection3}"`}
+                              aria-label={`See "${collection3}"`}
                             >
-                              Read more &rarr;
+                              See more &rarr;
                             </Link>
                           </div>
                         </div>
@@ -147,9 +147,9 @@ export default function CollectionLayout({ frontMatter, authorDetails, next, pre
                             <Link
                               href={collection4Link}
                               className="text-primary-color dark:text-primary-color-dark hover:text-blue-600 dark:hover:text-yellow-300"
-                              aria-label={`Read "${collection4}"`}
+                              aria-label={`See "${collection4}"`}
                             >
-                              Read more &rarr;
+                              See more &rarr;
                             </Link>
                           </div>
                         </div>
@@ -168,9 +168,9 @@ export default function CollectionLayout({ frontMatter, authorDetails, next, pre
                             <Link
                               href={collection5Link}
                               className="text-primary-color dark:text-primary-color-dark hover:text-blue-600 dark:hover:text-yellow-300"
-                              aria-label={`Read "${collection5}"`}
+                              aria-label={`See "${collection5}"`}
                             >
-                              Read more &rarr;
+                              See more &rarr;
                             </Link>
                           </div>
                         </div>
@@ -189,9 +189,9 @@ export default function CollectionLayout({ frontMatter, authorDetails, next, pre
                             <Link
                               href={collection6Link}
                               className="text-primary-color dark:text-primary-color-dark hover:text-blue-600 dark:hover:text-yellow-300"
-                              aria-label={`Read "${collection6}"`}
+                              aria-label={`See "${collection6}"`}
                             >
-                              Read more &rarr;
+                              See more &rarr;
                             </Link>
                           </div>
                         </div>

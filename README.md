@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com
 
 **Link to website:** https://bryangranados.com/
 
-![Screenshot of landing page](#)
+![Screenshot of landing page](https://raw.githubusercontent.com/diathekez/bryangranados/master/public/static/images/bryangranados_screenshot.png)
 
 ## Features
 
