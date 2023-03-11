@@ -71,7 +71,7 @@ export default function AuthorLayout({ children, frontMatter }) {
               <span>Check out my </span>
               <Link
                 href={
-                  'https://docs.google.com/document/d/1WBX5wBYUy0g74HIeNN9IZ9-nuYXrURyT/edit?usp=sharing&ouid=100244887075527874549&rtpof=true&sd=true'
+                  'https://docs.google.com/document/d/190vDsqKsOGnbB-XVzcXKBcobig7bfidf/edit?usp=sharing&ouid=100244887075527874549&rtpof=true&sd=true'
                 }
                 className="special-underline no-underline hover:dark:text-gray-800 dark:text-gray-100"
               >
@@ -86,7 +86,7 @@ export default function AuthorLayout({ children, frontMatter }) {
               </Link>
               <br />
               <br></br>
-              <span>I stream software development on </span>
+              <span>I sometimes stream software development on </span>
               <Link
                 href={'https://www.twitch.tv/diathekez'}
                 className="special-underline no-underline hover:dark:text-gray-800 dark:text-gray-100"

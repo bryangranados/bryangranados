@@ -5,24 +5,23 @@ const experienceData = [
     location: 'Remote',
     range: 'January 2023 - Present',
     url: 'https://www.valere.io/',
-    text1: 'Integrating third-party services to the principal product.',
-    text2: 'Utilizing Postman to verify that the API endpoints are functional.',
+    text1:
+      'Integrating third-party services to the principal product (working with Node and Express)by creating modules with flexible parameters that will be later implemented on the front-end. ',
+    text2:
+      'Working solo on front-end projects, designing pixel-perfect websites using React and Tailwind.',
     text3:
-      'Creating modules with flexible parameters that will be later implemented on the front-end.',
-    text4:
-      'Currently redesigning the company website using Gatsby, React, Tailwind, and Netlify CMS.',
+      'Directing meetings with third-party providers, ensuring stakeholders are well-informed of the current implementations and solutions, and providing resources to the team as needed.',
   },
   {
     title: 'Web Developer',
-    company: 'Mining Service Ingenieros',
+    company: 'MSI, LLC.',
     location: 'Remote',
     range: 'August 2022 - January 2023',
     url: 'https://www.minings.pe/',
-    text1: 'Web development, often subcontracted out to other companies.',
-    text2:
-      'Created a custom solution that engages in the systematic collection, storage, and analysis of data, subsequently utilizing the insights gleaned for the enhancement of business operations, as a result, reducing overhead costs and increasing annual revenue.',
-    text3:
-      'Proofreading, editing, and composition of company content (brochures, pamphlets, presentations).',
+    text1:
+      'Updated legacy code, refactored React components, and created components as needed to pixel-perfection.',
+    text2: 'Worked with Tailwind and an internal CSS library.',
+    text3: 'Heavy use of the Adobe suite to coordinate designs and implementations (PS, AI, XD).',
   },
   {
     title: 'Full-stack Developer',
@@ -39,26 +38,23 @@ const experienceData = [
     title: 'Software Development Intern',
     company: 'Dulcian Health',
     location: 'Woodbridge, New Jersey',
-    range: 'August 2022 - October 2022',
+    range: 'April 2022 - October 2022',
     url: 'https://www.linkedin.com/company/dulcian-health/',
     text1:
-      'Worked with the company’s main product, a CCM solution that allows physicians to immediately stand-up a CCM program that conforms to Medicare’s regulations.',
+      'Worked in QA with the company’s main product, a CCM solution that allows physicians to immediately stand-up a CCM program that conforms to Medicare’s regulations.',
     text2:
-      'Updated the company’s website to current industry standards. Used React, Tailwind, and GSAP.',
-    text3: 'Principal duty was testing the company’s products to find bugs or inconsistencies.',
+      'Main duty was stress testing the company’s products before launch, but additional duties later included translation of the UI from English to Spanish.',
   },
   {
-    title: 'Marketing and Administrative Specialist',
+    title: 'Web Designer',
     company: 'Refreshing Development Center',
     location: 'Clewiston, Florida',
     range: 'July 2017 - January 2020',
     url: 'https://www.refreshingdc.org/',
     text1:
-      'Secured over $50,000 in donations from patrons through compelling copywriting and email campaigns.',
+      'Worked closely with the lead graphics designer to develop and implement visually stunning layouts, directories, and design updates using HTML, CSS, and JS libraries.',
     text2:
-      'Supervised weekly meetings with other committee members of the NPO to discuss, plan, and divide the labor of the upcoming week.',
-    text3:
-      'Compiled data of surveys answered by 700+ beneficiaries to assess their needs, analyzed the data, and presented it to the heads of the NPO.',
+      'Future-proofed the organization’s web development by creating general template layouts and components, thereby achieving cost-savings in the thousands of dollars.',
   },
 ]
 

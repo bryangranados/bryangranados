@@ -13,7 +13,7 @@ export default function Now() {
       <div>
         <div className="my-2">
           <h3>Where am I and what am I doing?</h3>
-          <div className="mt-3 mb-4 text-sm">Last updated: February 5, 2023</div>
+          <div className="mt-3 mb-4 text-sm">Last updated: March 11, 2023</div>
         </div>
         {/* Misc */}
         <div className="flex justify-between">
@@ -28,11 +28,11 @@ export default function Now() {
             <span className="font-semibold">Reading:</span>{' '}
             <span>The Best American Short Stories &#8212; Ed. by Curtis Sittenfeld</span>
             <br />
-            <span className="font-semibold">Playing:</span> <span>Apex Legends</span>
+            <span className="font-semibold">Playing:</span> <span>Destiny 2</span>
           </div>
 
           <div className="text-sm p-1 mt-2 mb-10 border border-gray-600 dark:border-gray-200 rounded-md w-1/4">
-            <span className="font-semibold">Eating:</span> <span>Tallarin saltado</span>
+            <span className="font-semibold">Eating:</span> <span>Lasagna</span>
             <br />
             <span className="font-semibold">Drinking:</span> <span>Coffee (always)</span>
           </div>
@@ -61,14 +61,16 @@ export default function Now() {
           </p>
           <br />
           <p>
-            I mostly use React, Node, MongoDB, and Postman (to check the endpoints), though I'm
-            independently learning TypeScript better and like it a lot.
+            I mostly use React, Tailwind, Node, MongoDB, and Postman (to check the endpoints),
+            though I'm independently learning TypeScript better and like it a lot.
           </p>
           <br />
           <p>
-            My current main duties are exclusively to work on the back-end, integrating third-party
-            services to the principal product. But I'm also working on completely redesigning the
-            company's website using Gastby, React, Tailwind, and Netlify CMS.
+            My main duties are integrating third-party services to the principal product, directing
+            meetings with providers and keeping all the stakeholders informed, and providing
+            resources for the engineering team. I'm also working solo on redesigning the company
+            website using React and Tailwind. I'm planning on using Netlify CMS but I've been
+            looking at Astro.js and might try it out.
           </p>
           <br />
           <p>
@@ -101,12 +103,15 @@ export default function Now() {
           </p>
           <br />
           <p>
-            <span>I'm working on a short story collection written in second-person. </span>
+            <span>
+              I'm working on a short story collection written in second-person. I plan on turning it
+              into a choose-your-own-adventure web app.{' '}
+            </span>
             <Link
               href={'/my-books'}
               className="special-underline hover:dark:text-gray-800 dark:text-gray-100 no-underline"
             >
-              It will be available here.
+              The book will be available here.
             </Link>
           </p>
           <br />
