@@ -60,6 +60,18 @@ Run `node ./scripts/compose.js` to bootstrap a new post.
 
 Follow the interactive prompt to generate a post with pre-filled front matter.
 
+### Prettier Config
+
+This repo uses ESLint and Prettier. If you have the extensions for them installed, great. If you don't want to install them, make sure to run these lines before pushing changes or the build will fail:
+
+```bash
+yarn run prettier --check .
+```
+
+```bash
+yarn run prettier --write .
+```
+
 ## Deploy
 
 **Vercel**  
