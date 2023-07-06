@@ -13,26 +13,26 @@ export default function Now() {
       <div>
         <div className="my-2">
           <h3>Where am I and what am I doing?</h3>
-          <div className="mt-3 mb-4 text-sm">Last updated: March 11, 2023</div>
+          <div className="mt-3 mb-4 text-sm">Last updated: July 05, 2023</div>
         </div>
         {/* Misc */}
         <div className="flex justify-between">
           <div className="text-sm p-1 mt-2 mb-10 border border-gray-600 dark:border-gray-200 rounded-md w-1/4">
-            <span className="font-semibold">Location:</span> <span>La Molina,</span> <br />
+            <span className="font-semibold">Location:</span> <span>Miraflores,</span> <br />
             <span>Lima</span>
             <br />
-            <span className="font-semibold">Weather:</span> <span>78°F, sunny</span>
+            <span className="font-semibold">Weather:</span> <span>76°F, scattered clouds</span>
           </div>
 
           <div className="text-sm p-1 mt-2 mb-10 border border-gray-600 dark:border-gray-200 rounded-md w-2/5">
             <span className="font-semibold">Reading:</span>{' '}
             <span>The Best American Short Stories &#8212; Ed. by Curtis Sittenfeld</span>
             <br />
-            <span className="font-semibold">Playing:</span> <span>Destiny 2</span>
+            <span className="font-semibold">Playing:</span> <span>Fallout 4</span>
           </div>
 
           <div className="text-sm p-1 mt-2 mb-10 border border-gray-600 dark:border-gray-200 rounded-md w-1/4">
-            <span className="font-semibold">Eating:</span> <span>Lasagna</span>
+            <span className="font-semibold">Eating:</span> <span>Sopa criolla</span>
             <br />
             <span className="font-semibold">Drinking:</span> <span>Coffee (always)</span>
           </div>
@@ -40,37 +40,36 @@ export default function Now() {
         {/* Work */}
         <div className="pb-4">
           <span>
-            I work as a React engineer at{' '}
+            I work as a product owner and software architect at{' '}
             <Link
               href={'https://www.valere.io/'}
               className="special-underline hover:dark:text-gray-800 dark:text-gray-100 no-underline"
             >
-              Valere Labs{' '}
+              Valere.{' '}
             </Link>
             <br />
           </span>
           <p>
-            We provide software development services to clients all over the world. Each project
-            normally lasts about six months from conception to completion.
+            We provide software development and consultancy services. Each project normally lasts
+            about six months from conception to completion.
           </p>
           <br />
           <p>
             The company is based in the US but has offices in other countries. We have a
-            multicultural and international workforce, and it's also pretty laid back. By that I
-            mean that no one is micromanaging you.
+            multicultural and international workforce, and it's also pretty laid back. I love it
+            here.
           </p>
           <br />
           <p>
-            I mostly use React, Tailwind, Node, MongoDB, and Postman (to check the endpoints),
-            though I'm independently learning TypeScript better and like it a lot.
+            I don't code too much as part of this role, but when I do, I mostly work the MERN stack.
           </p>
           <br />
           <p>
-            My main duties are integrating third-party services to the principal product, directing
-            meetings with providers and keeping all the stakeholders informed, and providing
-            resources for the engineering team. I'm also working solo on redesigning the company
-            website using React and Tailwind. I'm planning on using Netlify CMS but I've been
-            looking at Astro.js and might try it out.
+            My main duties are designing the web architecture incoming projects will use, directing
+            meetings with providers and keeping all the stakeholders informed, and taking ownership
+            of projects when clients want to retain me. I also coded the company website myself. I
+            used React and Tailwind and, before I handed it over for maintenance to the dev team, I
+            was working on using Astro.js for the CMS.
           </p>
           <br />
           <p>
