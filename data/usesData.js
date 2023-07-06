@@ -3,7 +3,7 @@ import dynamic from 'next/dynamic'
 
 export const USES = [
   {
-    name: 'Custom PC Rig',
+    name: 'Custom PC Rig (Windows/Linux)',
     description: 'Intel i9 - RTX 3080 - 64GB RAM - 2TB SSD, 2TB HDD - Corsair 4000D',
   },
   {
@@ -34,20 +34,20 @@ export const USES = [
       'https://www.amazon.com/HUION-One-Handed-Customizable-Animation-Illustration/dp/B092HTZZWM',
   },
   {
-    name: 'HITIME XVX M61 60% Wireless Mechanical Keyboard',
-    description: 'I use this with my MacBook. Gateron Yellow switches.',
+    name: 'nuphy Air75 75% Wireless Mechanical Keyboard',
+    description: 'I use this with my MacBook. Gateron Red switches.',
     link:
-      'https://www.amazon.com/HITIME-Mechanical-Ultra-Compact-Rechargeable-Ergonomic/dp/B09MQPT2NQ',
+      'https://www.amazon.com/Air75-Mechanical-Connection-Compatible-Systems-Gateron/dp/B09KG6MSVH',
   },
   {
     name: 'Audeze Penrose X',
-    description: 'Gaming headset. There are EQ presets specifically for footsteps.',
+    description: 'Gaming headphones. There are EQ presets specifically for footsteps.',
     link: 'https://www.amazon.com/Audeze-Penrose-Wireless-Low-Latency-Bluetooth/dp/B08D9M6FZK',
   },
   {
-    name: 'SteelSeries Arctis Nova 7',
-    description: 'For music and calls.',
-    link: 'https://www.amazon.com/SteelSeries-Arctis-Wireless-Multi-Platform-Headset/dp/B0B15QM5LL',
+    name: 'Sennheiser HD 599',
+    description: 'For music and calls. Beautiful design.',
+    link: 'https://www.amazon.com/dp/B01L1IICR2',
   },
   {
     name: 'Logitech BRIO',
@@ -72,7 +72,7 @@ export const USES = [
   },
   {
     name: `27" Teros Curved Monitor`,
-    description: 'This monitor sits above my main one.',
+    description: 'This monitor is for my MacBook.',
     link:
       'https://articulo.mercadolibre.com.pe/MPE-439278095-monitor-gaming-teros-curvo-te-3170n-27-ips-led-144hz-1ms-hd-_JM',
   },
@@ -83,7 +83,8 @@ export const USES = [
   },
   {
     name: 'XP-PEN Artist Pro 15.6',
-    description: 'For when I need more precision than my mouse to do graphics design.',
+    description:
+      'I have it mounted and swivel it around to take notes and check my calendar for meetings.',
     link: 'https://www.amazon.com/XP-PEN-Artist15-6-Pro-15-6-Full-Laminated/dp/B07M5X7MH1',
   },
   {
@@ -93,7 +94,7 @@ export const USES = [
   },
   {
     name: 'Moleskine Cahier Journal, Dotted, Kraft Brown',
-    description: 'Sometimes I like to physically sketch wireframes.',
+    description: 'For lo-fi wireframe sketches.',
     link: 'https://www.amazon.com/Moleskine-Cahier-Cover-Journal-Ruled/dp/B079ZSSHW3',
   },
   {
@@ -113,13 +114,12 @@ export const USES = [
   },
   {
     name: 'Visual Studio Code',
-    description: 'This is my main code editor. I use it on my Windows setup as well.',
+    description: 'This is my main code editor. I use it on my Linux distro.',
     link: 'https://code.visualstudio.com/',
   },
   {
     name: 'Zed',
-    description:
-      'Built with Rust by Atom devs. MacOS only. I use it exclusively for JavaScript projects.',
+    description: 'Built with Rust by Atom devs. MacOS only. I use it exclusively for work.',
     link: 'https://zed.dev/',
   },
   {
