@@ -1,16 +1,15 @@
 const experienceData = [
   {
-    title: 'React Engineer',
-    company: 'Valere Labs',
+    title: 'Product Owner & Software Architect',
+    company: 'Valere',
     location: 'Remote',
     range: 'January 2023 - Present',
     url: 'https://www.valere.io/',
-    text1:
-      'Integrating third-party services to the principal product (working with Node and Express)by creating modules with flexible parameters that will be later implemented on the front-end. ',
+    text1: 'Define the overall software architecture and tech stack for incoming projects.',
     text2:
-      'Working solo on front-end projects, designing pixel-perfect websites using React and Tailwind.',
+      'Determine priorities for the development team to ensure all timelines and deliverables are met.',
     text3:
-      'Directing meetings with third-party providers, ensuring stakeholders are well-informed of the current implementations and solutions, and providing resources to the team as needed.',
+      'Establish and maintain effective communication channels with team members, stakeholders, and clients to ensure successful project outcomes.',
   },
   {
     title: 'Web Developer',
