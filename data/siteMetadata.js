@@ -12,10 +12,10 @@ const siteMetadata = {
   socialBanner: '/static/images/twittercard.png',
   email: 'bryan@granados.cc',
   github: 'https://github.com/diathekez',
-  twitter: 'https://twitter.com/diathekez',
+  twitter: 'https://twitter.com/yesthisisbryan',
   facebook: 'https://facebook.com',
-  instagram: 'https://instagram.com/diathekez',
-  linkedin: 'https://www.linkedin.com/bryangranados/',
+  instagram: 'https://instagram.com/bryan.was.taken',
+  linkedin: 'https://www.linkedin.com/bryangranados',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics

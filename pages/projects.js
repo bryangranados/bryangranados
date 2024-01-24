@@ -13,10 +13,10 @@ export default function Projects() {
             Projects
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Some projects I've built. Feel free to fork and improve them.
+            Some projects I built for fun. Feel free to fork and improve them.
           </p>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            NOTE: Because Heroku went premium-only, I'm currently in the process of migrating all my
+            Because Heroku went premium-only, I'm currently in the process of migrating all my
             projects to Railway and Cyclic.
           </p>
         </div>

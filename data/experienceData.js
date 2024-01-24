@@ -1,15 +1,15 @@
 const experienceData = [
   {
-    title: 'Product Owner & Software Architect',
+    title: 'Product Service Delivery Lead',
     company: 'Valere',
     location: 'Remote',
     range: 'January 2023 - Present',
     url: 'https://www.valere.io/',
-    text1: 'Define the overall software architecture and tech stack for incoming projects.',
-    text2:
-      'Determine priorities for the development team to ensure all timelines and deliverables are met.',
+    text1:
+      'Ensured enterprise client business goals were met in accordance with the project scope.',
+    text2: 'Pivotal role in the growth and execution of the company’s new offices and initiatives.',
     text3:
-      'Establish and maintain effective communication channels with team members, stakeholders, and clients to ensure successful project outcomes.',
+      'Led intercompany AI/ML client projects, ensuring absolute fidelity to the client’s vision and maintaining empathetic communication with both internal and external teams.',
   },
   {
     title: 'Web Developer',

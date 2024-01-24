@@ -79,14 +79,14 @@ export default function AuthorLayout({ children, frontMatter }) {
               </Link>
               <span>and </span>
               <Link
-                href={'https://www.behance.net/gallery/145445631/Project-Portfolio-2021-2022'}
+                href={'#'}
                 className="special-underline no-underline hover:dark:text-gray-800 dark:text-gray-100"
               >
                 portfolio.{' '}
               </Link>
               <br />
               <br></br>
-              <span>I sometimes stream software development on </span>
+              <span>I sometimes stream my work day on </span>
               <Link
                 href={'https://www.twitch.tv/diathekez'}
                 className="special-underline no-underline hover:dark:text-gray-800 dark:text-gray-100"

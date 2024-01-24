@@ -13,8 +13,7 @@ export const USES = [
   },
   {
     name: 'Logitech MX Vertical',
-    description:
-      'I recommend this mouse to every developer looking to lessen/prevent wrist strain.',
+    description: 'I recommend this mouse to everyone looking to lessen/prevent wrist strain.',
     link: 'https://amzn.to/3ww4Qu3',
   },
   {
@@ -71,26 +70,10 @@ export const USES = [
     link: 'https://www.amazon.com/LG-27GL850-B-Ultragear-Compatible-Monitor/dp/B07TD94TQF',
   },
   {
-    name: `27" Teros Curved Monitor`,
-    description: 'This monitor is for my MacBook.',
-    link:
-      'https://articulo.mercadolibre.com.pe/MPE-439278095-monitor-gaming-teros-curvo-te-3170n-27-ips-led-144hz-1ms-hd-_JM',
-  },
-  {
-    name: 'iPad Air 2',
-    description: 'I use it to keep Discord and other chat apps open. Any tablet will do for this.',
-    link: 'https://www.amazon.com/Apple-Space-Newest-Version-Renewed/dp/B00TREI0D4',
-  },
-  {
     name: 'XP-PEN Artist Pro 15.6',
     description:
-      'I have it mounted and swivel it around to take notes and check my calendar for meetings.',
+      'I have it right below my main monitor. I use it for client presentations to draw on.',
     link: 'https://www.amazon.com/XP-PEN-Artist15-6-Pro-15-6-Full-Laminated/dp/B07M5X7MH1',
-  },
-  {
-    name: 'Boogie Board',
-    description: 'For quick notes or doodling.',
-    link: 'https://www.amazon.com/JONZOO-Writing-Erasable-Drawing-Electronic/dp/B07XFDZ4QJ',
   },
   {
     name: 'Moleskine Cahier Journal, Dotted, Kraft Brown',
@@ -108,9 +91,9 @@ export const USES = [
     link: 'https://www.notion.so/',
   },
   {
-    name: 'Brave',
+    name: 'Arc',
     description: 'All the benefits of Chrome with less of the drawbacks.',
-    link: 'https://brave.com/',
+    link: 'https://arc.net/',
   },
   {
     name: 'Visual Studio Code',

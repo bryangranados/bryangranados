@@ -13,7 +13,7 @@ export default function Now() {
       <div>
         <div className="my-2">
           <h3>Where am I and what am I doing?</h3>
-          <div className="mt-3 mb-4 text-sm">Last updated: July 05, 2023</div>
+          <div className="mt-3 mb-4 text-sm">Last updated: January 23, 2024</div>
         </div>
         {/* Misc */}
         <div className="flex justify-between">
@@ -21,18 +21,18 @@ export default function Now() {
             <span className="font-semibold">Location:</span> <span>Miraflores,</span> <br />
             <span>Lima</span>
             <br />
-            <span className="font-semibold">Weather:</span> <span>76°F, scattered clouds</span>
+            <span className="font-semibold">Weather:</span> <span>80°F, few clouds</span>
           </div>
 
           <div className="text-sm p-1 mt-2 mb-10 border border-gray-600 dark:border-gray-200 rounded-md w-2/5">
             <span className="font-semibold">Reading:</span>{' '}
             <span>The Best American Short Stories &#8212; Ed. by Curtis Sittenfeld</span>
             <br />
-            <span className="font-semibold">Playing:</span> <span>Fallout 4</span>
+            <span className="font-semibold">Playing:</span> <span>Apex Legends</span>
           </div>
 
           <div className="text-sm p-1 mt-2 mb-10 border border-gray-600 dark:border-gray-200 rounded-md w-1/4">
-            <span className="font-semibold">Eating:</span> <span>Sopa criolla</span>
+            <span className="font-semibold">Eating:</span> <span>Bife de chorizo</span>
             <br />
             <span className="font-semibold">Drinking:</span> <span>Coffee (always)</span>
           </div>
@@ -40,7 +40,7 @@ export default function Now() {
         {/* Work */}
         <div className="pb-4">
           <span>
-            I work as a product owner and software architect at{' '}
+            I work as a product lead and solutions architect at{' '}
             <Link
               href={'https://www.valere.io/'}
               className="special-underline hover:dark:text-gray-800 dark:text-gray-100 no-underline"
@@ -65,11 +65,11 @@ export default function Now() {
           </p>
           <br />
           <p>
-            My main duties are designing the web architecture incoming projects will use, directing
-            meetings with providers and keeping all the stakeholders informed, and taking ownership
-            of projects when clients want to retain me. I also coded the company website myself. I
-            used React and Tailwind and, before I handed it over for maintenance to the dev team, I
-            was working on using Astro.js for the CMS.
+            My main duties are designing business-oriented product solutions, helping clients
+            transition over to us as a solutions architect, and implementing operations processes in
+            our offices. I also coded the company website myself (prior to it being updated). I used
+            React and Tailwind and, before I handed it over for maintenance to the dev team, I was
+            working on using Astro.js for the CMS.
           </p>
           <br />
           <p>
@@ -115,12 +115,12 @@ export default function Now() {
           </p>
           <br />
           <p>
-            I'm living in Lima right now and I like to go to Kennedy Park in Miraflores every
-            Sunday. There's so many cats everywhere that I got the idea to make a cat tracker web
-            app.
+            I live in Lima semi-permanently but travel around South America for most of the year. I
+            suppose I'm biased but Peruvian cuisine is my favorite Latin American cuisine. I'm a few
+            blocks away from the Pacific Ocean so I've been thinking about taking up surfing.
           </p>
-          <br />
-          {''}
+          {/* <br /> */}
+          {/* {''}
           <p>
             It will be available{' '}
             <Link
@@ -129,7 +129,7 @@ export default function Now() {
             >
               here.
             </Link>{' '}
-          </p>
+          </p> */}
           <p>
             <br></br>
           </p>
